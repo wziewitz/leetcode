@@ -6,6 +6,9 @@ using Xunit;
 
 namespace LeetCode.Medium.DynamicProgramming
 {
+    /// <summary>
+    /// https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/808/
+    /// </summary>
     public class UniquePathsSolution
     {
         public int UniquePathsBottomUp(int m, int n)
