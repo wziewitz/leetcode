@@ -5,7 +5,7 @@ using System.Runtime.ExceptionServices;
 using System.Text;
 using Xunit;
 
-namespace LeetCode.Medium.ArraysAndStrings
+namespace Medium.ArraysAndStrings
 {
     /// <summary>
     /// https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/777/
